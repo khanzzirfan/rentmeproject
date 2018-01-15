@@ -1,2 +1,2 @@
 # rentmeproject
-rent everything as you can. 
+rent everything when you can. 
